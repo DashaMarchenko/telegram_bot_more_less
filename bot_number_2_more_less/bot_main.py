@@ -8,7 +8,7 @@ import aiofiles
 number = 100
 count_of_attempts = 1
 
-bot = Bot('5869243777:AAGsU9hFjeW2HUtfxsYq5WEaP7Vd8Fkj4FQ')
+bot = Bot('token')
 dp = Dispatcher(bot)
 
 users = dict()
